@@ -1,0 +1,26 @@
+{
+    "representative": {
+        "logo": {
+            "logo_256": "https://raw.githubusercontent.com/icx-force/icx-force/main/img/logo.png",
+        },
+        "media": {
+            "steemit": "",
+            "twitter": "",
+            "youtube": "",
+            "facebook": "",
+            "github": "https://github.com/icx-force",
+            "reddit": "",
+            "keybase": "",
+            "telegram": "",
+            "wechat": ""
+        }
+    },
+    "server": {
+        "location": {
+            "country": "KOR",
+            "city": "Seoul"
+        },
+        "server_type": "",
+        "api_endpoint": ""
+    }
+}
